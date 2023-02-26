@@ -1,0 +1,15 @@
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\bin\Debug\net6.0\Real State Prog.exe
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\bin\Debug\net6.0\Real State Prog.deps.json
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\bin\Debug\net6.0\Real State Prog.runtimeconfig.json
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\bin\Debug\net6.0\Real State Prog.dll
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\bin\Debug\net6.0\Real State Prog.pdb
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.csproj.AssemblyReference.cache
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.AssemblyInfoInputs.cache
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.AssemblyInfo.cs
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.csproj.CoreCompileInputs.cache
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.dll
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\refint\Real State Prog.dll
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.pdb
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\Real State Prog.genruntimeconfig.cache
+C:\Users\jimwell\OneDrive\Documents\C# Codes Jimwell Rosario\Real State Prog\obj\Debug\net6.0\ref\Real State Prog.dll
